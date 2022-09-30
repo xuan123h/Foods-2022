@@ -41,6 +41,11 @@
   color: black !important;
   font-weight: bold !important;
 }
+.error__btn {
+  padding-left: 10px;
+  color: violet;
+  font-weight: bold;
+}
 @media screen and (max-width: 820px) {
   .button__color {
     width: 120px;
